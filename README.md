@@ -1,5 +1,6 @@
 # braun_silk_expert_pro_5
-Waveform of Braun Silk expert Pro5
+Waveform of Braun Silk expert Pro5  
+I hope this helps someone.
 
 # Environment
 The software used is [Sigrok](https://sigrok.org/wiki/Main_Page) and a device is a cheap logic analyzer (24 MHz) made in China on Amazon.
