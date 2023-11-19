@@ -9,7 +9,7 @@ The software used is [Sigrok](https://sigrok.org/wiki/Main_Page) and a device is
 ![front(Flash part) view of Silk Expert Pro 5](front_view.webp)  
 
 # Waveform
-bandwidth: 24 MHz
+Sigrok bandwidth: 24 MHz
 
 - **[standby.sr](standby.sr)**: Silk Expert is ready to flash, "SensoAdapt" is not lit.
 - **[not_irradiable.sr](not_irradiable.sr)**: Silk Expert will detect that the skin color is not conform.
